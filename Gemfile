@@ -46,7 +46,7 @@ gem 'fancy-buttons'
 gem 'simple-navigation'
 
 # Styling
-gem 'lyb_sidebar'
+gem 'lyb_sidebar', :path => '../lyb_sidebar'
 gem 'styleyt'
 
 # Form framework
